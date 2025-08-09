@@ -79,3 +79,7 @@ Future improvements could add multithreading for faster scans, support for more 
 This Python penetration testing toolkit provides foundational tools for network reconnaissance and credential testing. Its easy-to-use interface and modular structure make it a great learning tool. By practicing in legal and safe environments, users can better understand vulnerabilities related to open ports and weak SSH passwords. With additional features, this toolkit can evolve into a more comprehensive security testing utility.
 
 ---
+
+#output
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/4ce06d57-c1ac-4578-ba8b-1d91b66102bd" />
